@@ -32,15 +32,15 @@ $columns = array(
     array( 'db' => 'id_doctor', 'dt' => 'idDoctor' ),
     array( 'db' => 'nombre',  'dt' => 'nombre' ),
     array( 'db' => 'numcolegiado',   'dt' => 'numcolegiado' ),
-    array( 'db' => 'nombre_clinica',     'dt' => 'nombreClinica' ),
-    array( 'db' => 'id_clinica',     'dt' => 'idClinica' )
+    array( 'db' => 'clinicas',     'dt' => 'nombreClinica' ),
+    array( 'db' => 'idClinicas',     'dt' => 'idClinica' )
 );
  
 // SQL server connection information
 $sql_details = array(
-    'user' => 'cristianrico_dat',
+    'user' => 'cristianrico_cr',
     'pass' => 'riko1234',
-    'db'   => 'cristianrico_ejer',
+    'db'   => 'cristianrico_datatables',
     'host' => 'localhost'
 );
  

@@ -42,9 +42,9 @@ $columns = array(
  
 // SQL server connection information
 $sql_details = array(
-    'user' => 'cristianrico_dat',
+     'user' => 'cristianrico_cr',
     'pass' => 'riko1234',
-    'db'   => 'cristianrico_ejer',
+    'db'   => 'cristianrico_datatables',
     'host' => 'localhost'
 );
  
