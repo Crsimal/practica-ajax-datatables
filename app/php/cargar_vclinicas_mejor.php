@@ -38,9 +38,9 @@ $columns = array(
  
 // SQL server connection information
 $sql_details = array(
-    'user' => 'root',
-    'pass' => 'root',
-    'db'   => 'datatables',
+    'user' => 'cristianrico_dat',
+    'pass' => 'riko1234',
+    'db'   => 'cristianrico_ejer',
     'host' => 'localhost'
 );
  
